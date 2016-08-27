@@ -1,3 +1,3 @@
 # Machine-Learning
-All notebook and code about machinelearning
-机器学习仓库
+常见的机器学习模型，包括逻辑回归，支持向量机，朴素贝叶斯等算法
+# 详细导引
