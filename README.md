@@ -11,7 +11,7 @@ Machine-Learning
 * kNN<br><br>
 基于python的kNN算法的代码实现。<br><br>
 * trees<br><br>
-基于python的ID3算法决策树的代码实现。
+基于python的ID3算法决策树的代码实现。<br><br>
 * Logistics regressions<br><br>
 基于python的逻辑回归算法代码实现。<br><br>
 * Line regressions<br><br>
