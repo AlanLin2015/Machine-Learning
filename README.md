@@ -28,9 +28,9 @@ Machine-Learning
 基于python的K均值代码实现。
 
 ###数据处理与规整化
-*PCA<br><br>
+* PCA<br><br>
 基于python的PCA算法代码实现。<br><br>
-*SVD<br><br>
+* SVD<br><br>
 基于python的SVD协同过滤的代码实现。<br><br>
 
 
