@@ -7,13 +7,13 @@ Machine-Learning
 * SVM<br><br>
 这部分写了基于python的SVM的实现代码，包含详细的注释。具体的推导过程见 : [我的博文 : 一小时领会SVM支持向量机](http://blog.csdn.net/lzhalan2016/article/details/51283593)<br><br>
 * Naive Bayes<br><br>
-这部分写了基于python的朴素贝叶斯的实现代码，包含详细的注释。<br><br>
+这部分写了基于python的朴素贝叶斯的实现代码，包含详细的注释。详细介绍见 : [我的博文 : 朴素贝叶斯的推理学习算法](http://blog.csdn.net/lzhalan2016/article/details/52358173)<br><br>
 * kNN<br><br>
 基于python的kNN算法的代码实现。详细介绍见 : [我的博文 : KNN算法思想与应用例子](http://blog.csdn.net/lzhalan2016/article/details/51815696)<br><br>
 * trees<br><br>
-基于python的ID3算法决策树的代码实现。<br><br>
+基于python的ID3算法决策树的代码实现。详细介绍见 : [我的博文 : 决策树算法基础 : ID3与C4.5](http://blog.csdn.net/lzhalan2016/article/details/52357404)<br><br>
 * Logistics regressions<br><br>
-基于python的逻辑回归算法代码实现。<br><br>
+基于python的逻辑回归算法代码实现。详细推导方式见 : [我的博文 : 弱分类器的强势体：逻辑回归算法与推导]<br><br>
 * Line regressions<br><br>
 基于python的线性回归算法的代码实现。<br><br>
 * AdaBoost<br><br>
